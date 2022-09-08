@@ -1,0 +1,42 @@
+.form-control-lg {
+    border: 1px solid;
+}
+
+.carousel-caption {
+    height: 80%;
+}
+
+.text-dark {
+    font-size: 50px;
+    text-align: left;
+}
+
+.green {
+    color: green;
+}
+
+.text-secondary {
+    font-size: 20px;
+    text-align: left;
+}
+
+.tombol1 {
+    padding: 20px;
+}
+
+.carousel-item {
+    height: 560px;
+}
+
+
+.container {
+    margin-top: 50px;
+}
+
+.featured {
+    margin-bottom: 25px;
+}
+
+.img2 {
+    padding: 20px;
+}
